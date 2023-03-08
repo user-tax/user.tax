@@ -1,0 +1,8 @@
+*
+
+!/*.sh
+!/*.md
+!/.*
+!package.json
+
+.env
