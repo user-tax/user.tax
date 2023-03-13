@@ -1,5 +1,4 @@
 !*
-.git/*
 api/lib
 api/src/**/*
 ui/lib
@@ -8,3 +7,4 @@ ui/src/**/*
 pnpm-lock.yaml
 node_modules
 *.map
+**/.git
